@@ -1,4 +1,5 @@
 # This is a DataQuest guided project. 
+Important disclaimer: This project was completed on 02/27/2024. Projects completed after this date may include data from edits to the wikipedia article and/or events that occurred after this date. 
 
 # Purpose
 Purpose of this project is to analyze the occurrences of helicopter prison breaks by year and country that they occurred in.
